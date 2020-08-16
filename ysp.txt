@@ -1,0 +1,91 @@
+8M央视频道,#genre#
+CCTV-1 综合 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls#http://39.135.19.142:18890/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
+CCTV-2 财经 FHD,http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
+CCTV-3 综艺 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+CCTV-4 国际 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls#http://39.135.19.142:18890/PLTV/88888888/224/3221225744/1/index.m3u8?fmt=ts2hls
+CCTV-5 体育 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV-5+ 体育赛事 FHD,http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
+CCTV-6 电影 FHD,
+CCTV-7 国防军事 FHD,http://39.135.34.150:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7050628689018054317&owchid=ystenlive&owsid=1106497909461123525&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5v8WYfJSLSoSDQSshIAsx77pE15UEXEdMCmKIrL5%2f3xV22iBl6KMm%2bLcZrmbA5H1KmAD8EY%2bWAeRUs2LJ9Vxxk
+CCTV-8 电视剧 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+CCTV-9 纪录 FHD,http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
+CCTV-10 科教 FHD,http://39.135.34.150:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7019587760656900133&owchid=ystenlive&owsid=1106497909461152716&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5DtJGdM%2bq9fDiivHNjKl%2bK%2b9%2fvTG5xUEzd4ADPtXjiSOOAPl07bvHVEc1KInbp3p%2fXrmwsjTHZ%2fLcoxEWqnCxI
+CCTV-11 戏曲 FHD,http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
+CCTV-12 社会与法 FHD,http://39.135.34.150:8080/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
+CCTV-13 新闻 FHD,http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
+CCTV-14 少儿 FHD,http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
+CCTV-15 音乐 FHD,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
+CCTV-17 农村农业 FHD,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+8M卫视频道,#genre#
+湖南卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
+江苏卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+浙江卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
+东方卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+四川卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+北京卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
+广东卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
+深圳卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
+山东卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls
+天津卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
+东南卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+黑龙江卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
+湖北卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225708/1/index.m3u8?fmt=ts2hls
+江西卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+辽宁卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+重庆卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+安徽卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
+河北卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+河南卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+贵州卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
+吉林卫视 FHD,http://39.135.19.142:18890/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+动画频道,#genre#
+动画王国,http://39.135.19.142:18890/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+优漫卡通,http://39.135.19.142:18890/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
+嘉佳卡通,http://39.135.19.142:18890/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
+金鹰卡通,http://39.135.19.142:18890/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+北京卡酷,http://39.135.19.142:18890/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
+哈哈炫动,http://39.135.19.142:18890/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
+央视频道,#genre#
+CCTV 1,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
+CCTV 2,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203603.m3u8
+CCTV 3,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8
+CCTV 4,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204803.m3u8
+CCTV 5,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205103.m3u8
+CCTV 5+,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8
+CCTV 6,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203303.m3u8
+CCTV 7,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510003.m3u8
+CCTV 8,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203903.m3u8
+CCTV 9,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499403.m3u8
+CCTV 10,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203503.m3u8
+CCTV 11,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204103.m3u8
+CCTV 12,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000202603.m3u8
+CCTV 13,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+CCTV 14,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204403.m3u8
+CCTV 15,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205003.m3u8
+CCTV 17,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204203.m3u8
+超高清 4K,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+CGTN,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656801.m3u8
+卫视频道,#genre#
+湖南卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296203.m3u8
+东方卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
+黑龙江卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293903.m3u8
+广东卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292703.m3u8
+深圳卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292203.m3u8
+江苏卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
+浙江卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295503.m3u8
+江苏卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
+深圳卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292201.m3u8
+北京卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000272101.m3u8
+海南卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000291501.m3u8
+山东卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294801.m3u8
+江西卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294101.m3u8
+湖北卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294501.m3u8
+河南卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296101.m3u8
+河北卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293401.m3u8
+贵州卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293301.m3u8
+东南卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292501.m3u8
+广西卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294201.m3u8
+四川卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295001.m3u8
+辽宁卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000281301.m3u8
+重庆卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000297801.m3u8
+安徽卫视,http://120.204.4.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000298001.m3u8
