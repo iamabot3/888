@@ -48,19 +48,6 @@ CCTV-17农村农业,http://39.135.34.150:8080/000000001000/1000000005000056836/1
 贵州卫视,http://39.135.34.150:8080/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.34.150:8080/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 北京PLTV移动CDN,#genre#
-咪咕4K 31M2160HDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-北京冬奥纪实4K33M2160HDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226563/1.m3u8
-北京冬奥纪实4K26M2160SDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8
-北京IPTV4K超清 17M2160,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-北京IPTV淘BABY 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-北京IPTV淘剧场 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-北京IPTV淘娱乐 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-北京IPTV淘电影 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-北京IPTV萌宠TV 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-北京大健康 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
-凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-凤凰资讯 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 CCTV1 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 CCTV2 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
 CCTV3 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
@@ -78,24 +65,26 @@ CCTV13 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u
 CCTV14 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV15 3.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 CCTV17 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
-中国教育1 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
-东南卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+凤凰资讯 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
+湖南卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
+江苏卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
 东方卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
 北京卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
+浙江卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
+深圳卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
+湖北卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
+贵州卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+辽宁卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+黑龙江卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
 天津卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
 安徽卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
 山东卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
 广东卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
-江苏卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
+东南卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 江西卫视 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
 河北卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
-浙江卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
-深圳卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
-湖北卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
-湖南卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
-贵州卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
-辽宁卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
-黑龙江卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
+中国教育1 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
 北京冬奥纪实 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
 北京卡酷少儿 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 北京影视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
@@ -107,6 +96,16 @@ CCTV17 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u
 北京青年8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
 湖南快乐垂钓 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8
 湖南茶频道 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
+咪咕4K 31M2160HDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+北京冬奥纪实4K33M2160HDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226563/1.m3u8
+北京冬奥纪实4K26M2160SDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8
+北京IPTV4K超清 17M2160,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+北京IPTV淘BABY 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+北京IPTV淘剧场 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+北京IPTV淘娱乐 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+北京IPTV淘电影 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+北京IPTV萌宠TV 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+北京大健康 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 动画频道,#genre#
 动画王国,http://39.135.19.142:18890/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 优漫卡通,http://39.135.19.142:18890/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
