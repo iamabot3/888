@@ -5,7 +5,7 @@ CCTV-1综合高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/200021
 CCTV-2财经高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-3综艺高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV-4中文国际高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV-5体育高清,/2000205103.m3u8
+CCTV-5体育高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV-5+体育赛事高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV-6电影高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-7国防军事高清,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
