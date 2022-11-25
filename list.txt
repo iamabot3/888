@@ -1,6 +1,4 @@
 内蒙古移动IPv6,#genre#
-爱上4K 20M2160,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
-CCTV16 46M2160,http://[2409:8087:1030:301:2025::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 CCTV1 7M1080,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/index.m3u8?fmt=ts2hls
 CCTV1 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226294/index.m3u8?fmt=ts2hls
 CCTV2 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
@@ -58,6 +56,8 @@ SiTV动漫秀场 7M1080,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.ch
 SiTV欢笑剧场 7M1080,http://[2409:8087:1070:301:2028::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225954/index.m3u8?fmt=ts2hls
 SiTV生活时尚 7M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225953/index.m3u8?fmt=ts2hls
 SiTV都市剧场 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225956/index.m3u8?fmt=ts2hls
+爱上4K 20M2160,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
+CCTV16 46M2160,http://[2409:8087:1030:301:2025::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 湖南移动IPv6,#genre#
 CCTV1,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
 CCTV2,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
