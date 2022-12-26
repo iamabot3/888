@@ -12,7 +12,7 @@ http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv3/1300000/mnf.
 #EXTINF:-1,CCTV4
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 #EXTINF:-1,CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1,CCTV5+
 http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1,CCTV6
