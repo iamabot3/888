@@ -104,7 +104,7 @@ CCTV15,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/
 CCTV16,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 江苏卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-湖南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+湖南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 浙江卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 东方卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 山东卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/sdwshd8m/8000000/mnf.m3u8
@@ -113,7 +113,7 @@ CCTV17,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 辽宁卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 四川卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
 安徽卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
-湖北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+湖北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 黑龙江卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 广东卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 深圳卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
@@ -148,7 +148,7 @@ CCTV17,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/
 动漫秀场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 乐游,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 游戏风云,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-劲爆体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 魅力足球,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 新视觉,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 法治天地,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
