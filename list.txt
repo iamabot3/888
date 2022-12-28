@@ -87,7 +87,7 @@ CETV-1 高清,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/32212
 百事通,#genre#
 CCTV1,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV3,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV4,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV5,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 CCTV5+,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
