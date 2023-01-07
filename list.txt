@@ -120,6 +120,10 @@ CCTV-4K,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv4k/150
 广东卫视,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 深圳卫视,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 卡酷少儿,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+欢笑剧场8M,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+欢笑剧场4k,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+都市剧场,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+动漫秀场,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 金鹰卡通,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
 哈哈炫动,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 嘉佳卡通,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
@@ -148,10 +152,6 @@ CCTV-4K,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/cctv4k/150
 兵团卫视,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
 内蒙古卫视,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
 中国教育1台,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/zgjy1ott/4000000/mnf.m3u8
-欢笑剧场8M,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
-欢笑剧场4k,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
-都市剧场,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-动漫秀场,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 乐游,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 游戏风云,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 劲爆体育,http://119.28.165.26/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
